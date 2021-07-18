@@ -1,7 +1,5 @@
 ### Hi there 👋
 I am a software developer from Bristol, UK
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
 - 🔭 I’m currently working on multiple projects using HTML, CSS/SASS, Javascript, ASP.NET Webforms or Blazor
 - 🌱 I’m currently learning Vue.js
 - 😄 Pronouns: she/her
